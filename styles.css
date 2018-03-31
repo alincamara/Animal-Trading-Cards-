@@ -1,0 +1,16 @@
+span{
+	font-weight: bold;
+}
+.fact{
+	font-style: italic;
+}
+body{
+	border: 5px ridge orange;
+	text-align: center;
+}
+.info{
+	border:ridge;
+}
+img{
+	padding: 10px;
+}
